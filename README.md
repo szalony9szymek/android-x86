@@ -1,2 +1,2 @@
 # Android x86 Unofficial Mirror
-[Downloads](http://github.com/szalony9szymek/)
+[Downloads](https://github.com/szalony9szymek/android-x86/releases/tag/x86)
